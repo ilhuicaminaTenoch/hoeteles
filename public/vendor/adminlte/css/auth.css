@@ -1,0 +1,23 @@
+.auth-links {
+    margin-top: 10px;
+}
+
+.login-page, .register-page{
+    background-color: #1e282c !important;
+}
+
+.login-box, .register-box{
+    color: #FFF;
+    border: solid;
+    border-radius: 9px;
+}
+
+.login-logo b, .register-logo b{
+    padding: 10px;
+    font-size: 30px;
+    color: #FFF;
+}
+
+.login-logo, .register-logo{
+    margin-top: 20px !important;
+}
